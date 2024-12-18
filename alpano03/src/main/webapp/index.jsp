@@ -11,7 +11,7 @@
 <script type="text/javascript">
 
 function test(){
-	location.href="http://www.naver.com"
+	location.href="http://www.daum.net"
 }
 
 </script>
